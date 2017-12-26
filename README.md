@@ -1,2 +1,0 @@
-# Telegram
-A Wesite theme
